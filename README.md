@@ -74,6 +74,9 @@ The solution consists of two main projects:
 - **RaceDay.API** – Handles backend functionality and API operations.
 - **RaceDay.MVC** – Handles the user interface and user interactions.
 
+## YouTube Video
+https://youtu.be/GN4I6I6LphY
+
 ## Author
 
 **Akhona Lindumusa Khoza**
